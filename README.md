@@ -1,3 +1,3 @@
-# REUs
+# Projects
 
-Storing Images and presentations from my undergraduate research
+This repository stores some personal projects!
