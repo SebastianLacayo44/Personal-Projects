@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Import Modules and Data
-
-# In[1]:
-
-
 # import pandas 
 
 import pandas as pd
@@ -38,8 +30,6 @@ gdp_data = pd.read_csv('Desktop/data/GDP(Constant).csv')
 
 
 # # Create the Excel Generator Function
-
-# In[2]:
 
 
 def raw_to_excel(df, source_countries, partner_countries):
@@ -177,10 +167,3 @@ def raw_to_excel(df, source_countries, partner_countries):
             pogdp.to_excel(writer, sheet_name='PercentofGDP.xlsx')
         
         print("Success! Please look for a file called {}_TradeLogs.xlsx in your current directory".format(source))
-
-
-# In[5]:
-
-
-raw_to_excel(df,['IRN'],['EGY','SWZ'])
-
