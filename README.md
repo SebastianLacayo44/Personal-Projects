@@ -16,7 +16,7 @@ for inflation (CPI 2010 = 100 ; shorturl.at/ceCS4). All the data is provided exc
 is a link below to the data which is publically available.
 
 Data sources:
-    raw trade data - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2
-    cpi data - shorturl.at/ceCS4 (data.worldbank.org)
-    sitc product data - https://unstats.un.org/unsd/classifications/Econ (SITC Rev. 2)
-    GDP data - https://www.worldbank.org/en/home
+- raw trade data - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2
+- cpi data - shorturl.at/ceCS4 (data.worldbank.org)
+- sitc product data - https://unstats.un.org/unsd/classifications/Econ (SITC Rev. 2)
+- GDP data - https://www.worldbank.org/en/home
