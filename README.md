@@ -4,9 +4,9 @@ This repository stores some personal projects! Unlike my work repository, all pr
 
 # Projects
 
-1. [TradeFlows](#Trade Flows)
+1. [Trade Flows](#Trade-Flows)
 
-## Trade Flows
+## Trade-Flows
 
 This script was developed as part of a research project with a professor of international relations from my undergraduate institution. This script converts
 international trade data (SITC, Rev.2) provided by the Harvard Dataverse into a more digestible excel notebook for SMEs. This function is used 
