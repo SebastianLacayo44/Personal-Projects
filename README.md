@@ -1,6 +1,6 @@
 # Projects
 
-This repository stores some personal projects! Unlike my work repository, all programs and code in this repository should be easily reproducable.
+This repository stores some personal projects! All programs and code in this repository should be reproducable.
 
 # Projects
 
